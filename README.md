@@ -75,12 +75,13 @@ plt.axis("off")
 
 
 ### Display the result of Opening
-<img width="658" height="180" alt="image" src="https://github.com/user-attachments/assets/6374a9e8-2809-4b4c-99e7-d53eb645bbcd" />
 
 
+<img width="515" height="110" alt="download" src="https://github.com/user-attachments/assets/c5e655e0-91a3-4230-9fd2-da5e4acd1ec0" />
 
 ### Display the result of Closing
-<img width="666" height="182" alt="image" src="https://github.com/user-attachments/assets/029bff6d-0706-47b0-b48c-b741200d9893" />
+
+<img width="515" height="110" alt="download" src="https://github.com/user-attachments/assets/5fc34e4d-5707-45ff-99b8-66cec2b6150c" />
 
 
 ## Result
