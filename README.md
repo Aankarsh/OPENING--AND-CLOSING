@@ -24,8 +24,8 @@ Use Closing Operation.
 
  
 ## Program:
-### DEVELOPED BY: JANARTHANAN K
-### REGISTER NO: 212223040072
+### DEVELOPED BY: AANKARSH
+### REGISTER NO: 212223233001
 
 # Import the necessary packages
 ```
@@ -70,7 +70,8 @@ plt.axis("off")
 
 ### Display the input Image
 
-<img width="667" height="187" alt="image" src="https://github.com/user-attachments/assets/d2813717-c818-4460-9ad5-0fb49b1246d1" />
+<img width="515" height="110" alt="download" src="https://github.com/user-attachments/assets/c227cebc-873a-4125-b789-f86a94d138a3" />
+
 
 
 ### Display the result of Opening
